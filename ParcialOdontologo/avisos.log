@@ -1,0 +1,211 @@
+[2023-10-27 01:25:47] [INFO ] [Odontologo:26] El odontologo Odontologo{numeroMatricula=12, nombre='Angeles', apellido='Magaz'} fue agregado al array
+[2023-10-27 01:25:47] [INFO ] [Odontologo:26] El odontologo Odontologo{numeroMatricula=15, nombre='Facundo', apellido='Anellini'} fue agregado al array
+[2023-10-27 01:26:57] [INFO ] [Odontologo:26] El odontologo Odontologo{numeroMatricula=12, nombre='Angeles', apellido='Magaz'} fue agregado al array
+[2023-10-27 01:26:57] [INFO ] [Odontologo:26] El odontologo Odontologo{numeroMatricula=15, nombre='Facundo', apellido='Anellini'} fue agregado al array
+[2023-10-27 01:29:41] [INFO ] [Odontologo:26] El odontologo Odontologo{numeroMatricula=12, nombre='Angeles', apellido='Magaz'} fue agregado al array
+[2023-10-27 01:29:41] [INFO ] [Odontologo:26] El odontologo Odontologo{numeroMatricula=15, nombre='Facundo', apellido='Anellini'} fue agregado al array
+[2023-10-27 01:29:41] [INFO ] [DB:14] Conexion establecida
+[2023-10-27 01:29:41] [ERROR] [DB:30] Error de Sintaxis en sentencia SQL "CREATE TABLE ODONTOLOGO (NUMEROMATRICULA INT, NOMBRE VARCHAR(50), APELLIDO VARCHAR(50)[*]"; se esperaba "ARRAY, INVISIBLE, VISIBLE, NOT NULL, DEFAULT, GENERATED, ON UPDATE, NOT NULL, DEFAULT ON NULL, SEQUENCE, SELECTIVITY, COMMENT, CONSTRAINT, COMMENT, PRIMARY KEY, UNIQUE, NOT NULL, CHECK, REFERENCES, ,, )"
+Syntax error in SQL statement "CREATE TABLE ODONTOLOGO (NUMEROMATRICULA INT, NOMBRE VARCHAR(50), APELLIDO VARCHAR(50)[*]"; expected "ARRAY, INVISIBLE, VISIBLE, NOT NULL, DEFAULT, GENERATED, ON UPDATE, NOT NULL, DEFAULT ON NULL, SEQUENCE, SELECTIVITY, COMMENT, CONSTRAINT, COMMENT, PRIMARY KEY, UNIQUE, NOT NULL, CHECK, REFERENCES, ,, )"; SQL statement:
+CREATE TABLE ODONTOLOGO (NUMEROMATRICULA INT, NOMBRE VARCHAR(50), APELLIDO VARCHAR(50) [42001-224]
+[2023-10-27 01:29:41] [INFO ] [DB:14] Conexion establecida
+[2023-10-27 01:29:41] [ERROR] [OdontologoIDaoH2:33] Table "ODONTOLOGO" not found (this database is empty); SQL statement:
+INSERT INTO ODONTOLOGO VALUES (?,?,?) [42104-224]
+[2023-10-27 01:29:41] [INFO ] [DB:14] Conexion establecida
+[2023-10-27 01:29:41] [ERROR] [OdontologoIDaoH2:33] Table "ODONTOLOGO" not found (this database is empty); SQL statement:
+INSERT INTO ODONTOLOGO VALUES (?,?,?) [42104-224]
+[2023-10-27 01:34:19] [INFO ] [Odontologo:26] El odontologo Odontologo{numeroMatricula=12, nombre='Angeles', apellido='Magaz'} fue agregado al array
+[2023-10-27 01:34:19] [INFO ] [Odontologo:26] El odontologo Odontologo{numeroMatricula=15, nombre='Facundo', apellido='Anellini'} fue agregado al array
+[2023-10-27 01:34:19] [INFO ] [DB:14] Conexion establecida
+[2023-10-27 01:34:20] [ERROR] [DB:32] Error de Sintaxis en sentencia SQL "CREATE TABLE ODONTOLOGO (NUMEROMATRICULA INT, NOMBRE VARCHAR(50), APELLIDO VARCHAR(50)[*]"; se esperaba "ARRAY, INVISIBLE, VISIBLE, NOT NULL, DEFAULT, GENERATED, ON UPDATE, NOT NULL, DEFAULT ON NULL, SEQUENCE, SELECTIVITY, COMMENT, CONSTRAINT, COMMENT, PRIMARY KEY, UNIQUE, NOT NULL, CHECK, REFERENCES, ,, )"
+Syntax error in SQL statement "CREATE TABLE ODONTOLOGO (NUMEROMATRICULA INT, NOMBRE VARCHAR(50), APELLIDO VARCHAR(50)[*]"; expected "ARRAY, INVISIBLE, VISIBLE, NOT NULL, DEFAULT, GENERATED, ON UPDATE, NOT NULL, DEFAULT ON NULL, SEQUENCE, SELECTIVITY, COMMENT, CONSTRAINT, COMMENT, PRIMARY KEY, UNIQUE, NOT NULL, CHECK, REFERENCES, ,, )"; SQL statement:
+CREATE TABLE ODONTOLOGO (NUMEROMATRICULA INT, NOMBRE VARCHAR(50), APELLIDO VARCHAR(50) [42001-224]
+[2023-10-27 01:34:20] [INFO ] [DB:14] Conexion establecida
+[2023-10-27 01:34:20] [ERROR] [OdontologoIDaoH2:33] Table "ODONTOLOGO" not found (this database is empty); SQL statement:
+INSERT INTO ODONTOLOGO VALUES (?,?,?) [42104-224]
+[2023-10-27 01:34:20] [INFO ] [DB:14] Conexion establecida
+[2023-10-27 01:34:20] [ERROR] [OdontologoIDaoH2:33] Table "ODONTOLOGO" not found (this database is empty); SQL statement:
+INSERT INTO ODONTOLOGO VALUES (?,?,?) [42104-224]
+[2023-10-27 01:35:06] [INFO ] [Odontologo:26] El odontologo Odontologo{numeroMatricula=12, nombre='Angeles', apellido='Magaz'} fue agregado al array
+[2023-10-27 01:35:06] [INFO ] [Odontologo:26] El odontologo Odontologo{numeroMatricula=15, nombre='Facundo', apellido='Anellini'} fue agregado al array
+[2023-10-27 01:35:06] [INFO ] [DB:14] Conexion establecida
+[2023-10-27 01:35:06] [ERROR] [DB:32] Error de Sintaxis en sentencia SQL "CREATE TABLE ODONTOLOGO (NUMEROMATRICULA INT, NOMBRE VARCHAR(50), APELLIDO VARCHAR(50)[*]"; se esperaba "ARRAY, INVISIBLE, VISIBLE, NOT NULL, DEFAULT, GENERATED, ON UPDATE, NOT NULL, DEFAULT ON NULL, SEQUENCE, SELECTIVITY, COMMENT, CONSTRAINT, COMMENT, PRIMARY KEY, UNIQUE, NOT NULL, CHECK, REFERENCES, ,, )"
+Syntax error in SQL statement "CREATE TABLE ODONTOLOGO (NUMEROMATRICULA INT, NOMBRE VARCHAR(50), APELLIDO VARCHAR(50)[*]"; expected "ARRAY, INVISIBLE, VISIBLE, NOT NULL, DEFAULT, GENERATED, ON UPDATE, NOT NULL, DEFAULT ON NULL, SEQUENCE, SELECTIVITY, COMMENT, CONSTRAINT, COMMENT, PRIMARY KEY, UNIQUE, NOT NULL, CHECK, REFERENCES, ,, )"; SQL statement:
+CREATE TABLE ODONTOLOGO (NUMEROMATRICULA INT, NOMBRE VARCHAR(50), APELLIDO VARCHAR(50) [42001-224]
+[2023-10-27 01:35:06] [INFO ] [DB:14] Conexion establecida
+[2023-10-27 01:35:06] [ERROR] [OdontologoIDaoH2:33] Table "ODONTOLOGO" not found (this database is empty); SQL statement:
+INSERT INTO ODONTOLOGO VALUES (?,?,?) [42104-224]
+[2023-10-27 01:35:06] [INFO ] [DB:14] Conexion establecida
+[2023-10-27 01:35:06] [ERROR] [OdontologoIDaoH2:33] Table "ODONTOLOGO" not found (this database is empty); SQL statement:
+INSERT INTO ODONTOLOGO VALUES (?,?,?) [42104-224]
+[2023-10-27 01:36:07] [INFO ] [Odontologo:26] El odontologo Odontologo{numeroMatricula=12, nombre='Angeles', apellido='Magaz'} fue agregado al array
+[2023-10-27 01:36:07] [INFO ] [Odontologo:26] El odontologo Odontologo{numeroMatricula=15, nombre='Facundo', apellido='Anellini'} fue agregado al array
+[2023-10-27 01:36:07] [INFO ] [DB:14] Conexion establecida
+[2023-10-27 01:36:07] [INFO ] [DB:14] Conexion establecida
+[2023-10-27 01:36:07] [ERROR] [OdontologoIDaoH2:33] La cantidad de columnas no coincide
+Column count does not match; SQL statement:
+INSERT INTO ODONTOLOGO VALUES (?,?,?) [21002-224]
+[2023-10-27 01:36:07] [INFO ] [DB:14] Conexion establecida
+[2023-10-27 01:36:07] [ERROR] [OdontologoIDaoH2:33] La cantidad de columnas no coincide
+Column count does not match; SQL statement:
+INSERT INTO ODONTOLOGO VALUES (?,?,?) [21002-224]
+[2023-10-27 01:36:47] [INFO ] [Odontologo:26] El odontologo Odontologo{numeroMatricula=12, nombre='Angeles', apellido='Magaz'} fue agregado al array
+[2023-10-27 01:36:47] [INFO ] [Odontologo:26] El odontologo Odontologo{numeroMatricula=15, nombre='Facundo', apellido='Anellini'} fue agregado al array
+[2023-10-27 01:36:47] [INFO ] [DB:14] Conexion establecida
+[2023-10-27 01:36:48] [ERROR] [DB:32] Error de Sintaxis en sentencia SQL "CREATE TABLE OD (NUMEROMATRICULA INT, NOMBRE VARCHAR(50), APELLIDO VARCHAR(50)[*]"; se esperaba "ARRAY, INVISIBLE, VISIBLE, NOT NULL, DEFAULT, GENERATED, ON UPDATE, NOT NULL, DEFAULT ON NULL, SEQUENCE, SELECTIVITY, COMMENT, CONSTRAINT, COMMENT, PRIMARY KEY, UNIQUE, NOT NULL, CHECK, REFERENCES, ,, )"
+Syntax error in SQL statement "CREATE TABLE OD (NUMEROMATRICULA INT, NOMBRE VARCHAR(50), APELLIDO VARCHAR(50)[*]"; expected "ARRAY, INVISIBLE, VISIBLE, NOT NULL, DEFAULT, GENERATED, ON UPDATE, NOT NULL, DEFAULT ON NULL, SEQUENCE, SELECTIVITY, COMMENT, CONSTRAINT, COMMENT, PRIMARY KEY, UNIQUE, NOT NULL, CHECK, REFERENCES, ,, )"; SQL statement:
+CREATE TABLE OD (NUMEROMATRICULA INT, NOMBRE VARCHAR(50), APELLIDO VARCHAR(50) [42001-224]
+[2023-10-27 01:36:48] [INFO ] [DB:14] Conexion establecida
+[2023-10-27 01:36:48] [ERROR] [OdontologoIDaoH2:33] La cantidad de columnas no coincide
+Column count does not match; SQL statement:
+INSERT INTO ODONTOLOGO VALUES (?,?,?) [21002-224]
+[2023-10-27 01:36:48] [INFO ] [DB:14] Conexion establecida
+[2023-10-27 01:36:48] [ERROR] [OdontologoIDaoH2:33] La cantidad de columnas no coincide
+Column count does not match; SQL statement:
+INSERT INTO ODONTOLOGO VALUES (?,?,?) [21002-224]
+[2023-10-27 01:38:14] [INFO ] [Odontologo:26] El odontologo Odontologo{numeroMatricula=12, nombre='Angeles', apellido='Magaz'} fue agregado al array
+[2023-10-27 01:38:14] [INFO ] [Odontologo:26] El odontologo Odontologo{numeroMatricula=15, nombre='Facundo', apellido='Anellini'} fue agregado al array
+[2023-10-27 01:38:14] [INFO ] [DB:14] Conexion establecida
+[2023-10-27 01:38:14] [ERROR] [DB:32] Error de Sintaxis en sentencia SQL "CREATE TABLE ODONTOLOGO (NUMEROMATRICULA INT, NOMBRE VARCHAR(50), APELLIDO VARCHAR(50)[*]"; se esperaba "ARRAY, INVISIBLE, VISIBLE, NOT NULL, DEFAULT, GENERATED, ON UPDATE, NOT NULL, DEFAULT ON NULL, SEQUENCE, SELECTIVITY, COMMENT, CONSTRAINT, COMMENT, PRIMARY KEY, UNIQUE, NOT NULL, CHECK, REFERENCES, ,, )"
+Syntax error in SQL statement "CREATE TABLE ODONTOLOGO (NUMEROMATRICULA INT, NOMBRE VARCHAR(50), APELLIDO VARCHAR(50)[*]"; expected "ARRAY, INVISIBLE, VISIBLE, NOT NULL, DEFAULT, GENERATED, ON UPDATE, NOT NULL, DEFAULT ON NULL, SEQUENCE, SELECTIVITY, COMMENT, CONSTRAINT, COMMENT, PRIMARY KEY, UNIQUE, NOT NULL, CHECK, REFERENCES, ,, )"; SQL statement:
+CREATE TABLE ODONTOLOGO (NUMEROMATRICULA INT, NOMBRE VARCHAR(50), APELLIDO VARCHAR(50) [42001-224]
+[2023-10-27 01:38:14] [INFO ] [DB:14] Conexion establecida
+[2023-10-27 01:38:14] [ERROR] [OdontologoIDaoH2:33] La cantidad de columnas no coincide
+Column count does not match; SQL statement:
+INSERT INTO ODONTOLOGO VALUES (?,?,?) [21002-224]
+[2023-10-27 01:38:14] [INFO ] [DB:14] Conexion establecida
+[2023-10-27 01:38:14] [ERROR] [OdontologoIDaoH2:33] La cantidad de columnas no coincide
+Column count does not match; SQL statement:
+INSERT INTO ODONTOLOGO VALUES (?,?,?) [21002-224]
+[2023-10-27 01:39:53] [INFO ] [Odontologo:26] El odontologo Odontologo{numeroMatricula=12, nombre='Angeles', apellido='Magaz'} fue agregado al array
+[2023-10-27 01:39:53] [INFO ] [Odontologo:26] El odontologo Odontologo{numeroMatricula=15, nombre='Facundo', apellido='Anellini'} fue agregado al array
+[2023-10-27 01:39:53] [INFO ] [DB:14] Conexion establecida
+[2023-10-27 01:39:53] [ERROR] [DB:32] Tabla "ODONTOLOGO" ya existe
+Table "ODONTOLOGO" already exists; SQL statement:
+CREATE TABLE ODONTOLOGO (NUMEROMATRICULA INT, NOMBRE VARCHAR (50), APELLIDO VARCHAR (50)) [42101-224]
+[2023-10-27 01:39:53] [INFO ] [DB:14] Conexion establecida
+[2023-10-27 01:39:53] [ERROR] [OdontologoIDaoH2:33] La cantidad de columnas no coincide
+Column count does not match; SQL statement:
+INSERT INTO ODONTOLOGO VALUES (?,?,?) [21002-224]
+[2023-10-27 01:39:53] [INFO ] [DB:14] Conexion establecida
+[2023-10-27 01:39:53] [ERROR] [OdontologoIDaoH2:33] La cantidad de columnas no coincide
+Column count does not match; SQL statement:
+INSERT INTO ODONTOLOGO VALUES (?,?,?) [21002-224]
+[2023-10-27 01:40:18] [INFO ] [Odontologo:26] El odontologo Odontologo{numeroMatricula=12, nombre='Angeles', apellido='Magaz'} fue agregado al array
+[2023-10-27 01:40:18] [INFO ] [Odontologo:26] El odontologo Odontologo{numeroMatricula=15, nombre='Facundo', apellido='Anellini'} fue agregado al array
+[2023-10-27 01:40:18] [INFO ] [DB:14] Conexion establecida
+[2023-10-27 01:40:19] [INFO ] [DB:14] Conexion establecida
+[2023-10-27 01:40:19] [INFO ] [OdontologoIDaoH2:30] Odontologo insertado satisfactoriamente
+[2023-10-27 01:40:19] [INFO ] [DB:14] Conexion establecida
+[2023-10-27 01:40:19] [INFO ] [OdontologoIDaoH2:30] Odontologo insertado satisfactoriamente
+[2023-10-27 01:41:23] [INFO ] [Odontologo:26] El odontologo Odontologo{numeroMatricula=12, nombre='Angeles', apellido='Magaz'} fue agregado al array
+[2023-10-27 01:41:23] [INFO ] [Odontologo:26] El odontologo Odontologo{numeroMatricula=15, nombre='Facundo', apellido='Anellini'} fue agregado al array
+[2023-10-27 01:41:23] [INFO ] [DB:14] Conexion establecida
+[2023-10-27 01:41:23] [INFO ] [DB:28] Tabla creada satisfactoriamente
+[2023-10-27 01:41:23] [INFO ] [DB:14] Conexion establecida
+[2023-10-27 01:41:23] [INFO ] [OdontologoIDaoH2:30] Odontologo insertado satisfactoriamente
+[2023-10-27 01:41:24] [INFO ] [DB:14] Conexion establecida
+[2023-10-27 01:41:24] [INFO ] [OdontologoIDaoH2:30] Odontologo insertado satisfactoriamente
+[2023-10-27 01:41:37] [INFO ] [Odontologo:26] El odontologo Odontologo{numeroMatricula=12, nombre='Angeles', apellido='Magaz'} fue agregado al array
+[2023-10-27 01:41:37] [INFO ] [Odontologo:26] El odontologo Odontologo{numeroMatricula=15, nombre='Facundo', apellido='Anellini'} fue agregado al array
+[2023-10-27 01:41:37] [INFO ] [DB:14] Conexion establecida
+[2023-10-27 01:41:38] [INFO ] [DB:28] Tabla creada satisfactoriamente
+[2023-10-27 01:41:38] [INFO ] [DB:14] Conexion establecida
+[2023-10-27 01:41:38] [INFO ] [OdontologoIDaoH2:30] Odontologo insertado satisfactoriamente
+[2023-10-27 01:41:38] [INFO ] [DB:14] Conexion establecida
+[2023-10-27 01:41:38] [INFO ] [OdontologoIDaoH2:30] Odontologo insertado satisfactoriamente
+[2023-10-27 01:41:38] [INFO ] [DB:14] Conexion establecida
+[2023-10-27 01:41:53] [INFO ] [Odontologo:26] El odontologo Odontologo{numeroMatricula=12, nombre='Angeles', apellido='Magaz'} fue agregado al array
+[2023-10-27 01:41:53] [INFO ] [Odontologo:26] El odontologo Odontologo{numeroMatricula=15, nombre='Facundo', apellido='Anellini'} fue agregado al array
+[2023-10-27 01:41:53] [INFO ] [DB:14] Conexion establecida
+[2023-10-27 01:41:54] [INFO ] [DB:28] Tabla creada satisfactoriamente
+[2023-10-27 01:41:54] [INFO ] [DB:14] Conexion establecida
+[2023-10-27 01:41:54] [INFO ] [OdontologoIDaoH2:30] Odontologo insertado satisfactoriamente
+[2023-10-27 01:41:54] [INFO ] [DB:14] Conexion establecida
+[2023-10-27 01:41:54] [INFO ] [OdontologoIDaoH2:30] Odontologo insertado satisfactoriamente
+[2023-10-27 01:41:54] [INFO ] [DB:14] Conexion establecida
+[2023-10-27 01:55:32] [INFO ] [DB:14] Conexion establecida
+[2023-10-27 01:55:33] [INFO ] [DB:28] Tabla creada satisfactoriamente
+[2023-10-27 01:55:33] [INFO ] [OdontologoIDaoList:16] El odontologo Odontologo{numeroMatricula=12, nombre='Angeles', apellido='Magaz'} fue agregado al array
+[2023-10-27 01:55:33] [INFO ] [OdontologoIDaoList:16] El odontologo Odontologo{numeroMatricula=15, nombre='Facundo', apellido='Anellini'} fue agregado al array
+[2023-10-27 01:55:33] [INFO ] [DB:14] Conexion establecida
+[2023-10-27 01:55:33] [INFO ] [OdontologoIDaoH2:30] Odontologo insertado satisfactoriamente
+[2023-10-27 01:55:33] [INFO ] [DB:14] Conexion establecida
+[2023-10-27 01:55:33] [INFO ] [OdontologoIDaoH2:30] Odontologo insertado satisfactoriamente
+[2023-10-27 01:55:33] [INFO ] [DB:14] Conexion establecida
+[2023-10-27 01:56:55] [INFO ] [DB:14] Conexion establecida
+[2023-10-27 01:56:55] [INFO ] [DB:28] Tabla creada satisfactoriamente
+[2023-10-27 01:56:55] [INFO ] [DB:14] Conexion establecida
+[2023-10-27 01:56:55] [INFO ] [OdontologoIDaoH2:30] Odontologo insertado satisfactoriamente
+[2023-10-27 01:56:55] [INFO ] [DB:14] Conexion establecida
+[2023-10-27 01:56:55] [INFO ] [OdontologoIDaoH2:30] Odontologo insertado satisfactoriamente
+[2023-10-27 01:56:56] [INFO ] [DB:14] Conexion establecida
+[2023-10-27 01:58:29] [INFO ] [DB:14] Conexion establecida
+[2023-10-27 01:58:30] [INFO ] [DB:28] Tabla creada satisfactoriamente
+[2023-10-27 01:58:30] [INFO ] [OdontologoIDaoList:16] El odontologo Odontologo{numeroMatricula=12, nombre='Angeles', apellido='Magaz'} fue agregado al array
+[2023-10-27 01:58:30] [INFO ] [OdontologoIDaoList:16] El odontologo Odontologo{numeroMatricula=15, nombre='Facundo', apellido='Anellini'} fue agregado al array
+[2023-10-27 01:58:52] [INFO ] [DB:14] Conexion establecida
+[2023-10-27 01:58:53] [INFO ] [DB:28] Tabla creada satisfactoriamente
+[2023-10-27 01:58:53] [INFO ] [OdontologoIDaoList:16] El odontologo Odontologo{numeroMatricula=12, nombre='Angeles', apellido='Magaz'} fue agregado al array
+[2023-10-27 01:58:53] [INFO ] [OdontologoIDaoList:16] El odontologo Odontologo{numeroMatricula=15, nombre='Facundo', apellido='Anellini'} fue agregado al array
+[2023-10-27 02:01:55] [INFO ] [DB:14] Conexion establecida
+[2023-10-27 02:01:56] [INFO ] [DB:28] Tabla creada satisfactoriamente
+[2023-10-27 02:01:56] [INFO ] [OdontologoIDaoList:16] El odontologo Odontologo{numeroMatricula=12, nombre='Angeles', apellido='Magaz'} fue agregado al array
+[2023-10-27 02:01:56] [INFO ] [OdontologoIDaoList:16] El odontologo Odontologo{numeroMatricula=15, nombre='Facundo', apellido='Anellini'} fue agregado al array
+[2023-10-27 02:02:16] [INFO ] [DB:14] Conexion establecida
+[2023-10-27 02:02:17] [INFO ] [DB:28] Tabla creada satisfactoriamente
+[2023-10-27 02:02:17] [INFO ] [OdontologoIDaoList:16] El odontologo Odontologo{numeroMatricula=12, nombre='Angeles', apellido='Magaz'} fue agregado al array
+[2023-10-27 02:02:17] [INFO ] [OdontologoIDaoList:16] El odontologo Odontologo{numeroMatricula=15, nombre='Facundo', apellido='Anellini'} fue agregado al array
+[2023-10-27 02:02:46] [INFO ] [DB:14] Conexion establecida
+[2023-10-27 02:02:47] [INFO ] [DB:28] Tabla creada satisfactoriamente
+[2023-10-27 02:02:47] [INFO ] [OdontologoIDaoList:16] El odontologo Odontologo{numeroMatricula=12, nombre='Angeles', apellido='Magaz'} fue agregado al array
+[2023-10-27 02:02:47] [INFO ] [OdontologoIDaoList:16] El odontologo Odontologo{numeroMatricula=15, nombre='Facundo', apellido='Anellini'} fue agregado al array
+[2023-10-27 02:03:30] [INFO ] [DB:14] Conexion establecida
+[2023-10-27 02:03:30] [INFO ] [DB:28] Tabla creada satisfactoriamente
+[2023-10-27 02:03:30] [INFO ] [DB:14] Conexion establecida
+[2023-10-27 02:03:30] [INFO ] [OdontologoIDaoH2:30] Odontologo insertado satisfactoriamente
+[2023-10-27 02:03:30] [INFO ] [DB:14] Conexion establecida
+[2023-10-27 02:03:30] [INFO ] [OdontologoIDaoH2:30] Odontologo insertado satisfactoriamente
+[2023-10-27 02:03:30] [INFO ] [DB:14] Conexion establecida
+[2023-10-27 02:03:48] [INFO ] [DB:14] Conexion establecida
+[2023-10-27 02:03:49] [INFO ] [DB:28] Tabla creada satisfactoriamente
+[2023-10-27 02:03:49] [INFO ] [DB:14] Conexion establecida
+[2023-10-27 02:03:49] [INFO ] [OdontologoIDaoH2:30] Odontologo insertado satisfactoriamente
+[2023-10-27 02:03:49] [INFO ] [DB:14] Conexion establecida
+[2023-10-27 02:03:49] [INFO ] [OdontologoIDaoH2:30] Odontologo insertado satisfactoriamente
+[2023-10-27 02:03:49] [INFO ] [DB:14] Conexion establecida
+[2023-10-27 02:04:50] [INFO ] [OdontologoIDaoList:16] El odontologo Odontologo{numeroMatricula=12, nombre='Angeles', apellido='Magaz'} fue agregado al array
+[2023-10-27 02:04:50] [INFO ] [OdontologoIDaoList:16] El odontologo Odontologo{numeroMatricula=15, nombre='Facundo', apellido='Anellini'} fue agregado al array
+[2023-10-27 02:05:34] [INFO ] [OdontologoIDaoList:16] El odontologo Odontologo{numeroMatricula=12, nombre='Angeles', apellido='Magaz'} fue agregado al array
+[2023-10-27 02:05:34] [INFO ] [OdontologoIDaoList:16] El odontologo Odontologo{numeroMatricula=15, nombre='Facundo', apellido='Anellini'} fue agregado al array
+[2023-10-27 02:05:55] [INFO ] [DB:14] Conexion establecida
+[2023-10-27 02:05:56] [INFO ] [DB:28] Tabla creada satisfactoriamente
+[2023-10-27 02:05:56] [INFO ] [DB:14] Conexion establecida
+[2023-10-27 02:05:56] [INFO ] [OdontologoIDaoH2:30] Odontologo insertado satisfactoriamente
+[2023-10-27 02:05:56] [INFO ] [DB:14] Conexion establecida
+[2023-10-27 02:05:56] [INFO ] [OdontologoIDaoH2:30] Odontologo insertado satisfactoriamente
+[2023-10-27 02:05:56] [INFO ] [DB:14] Conexion establecida
+[2023-10-27 02:18:47] [INFO ] [DB:14] Conexion establecida
+[2023-10-27 02:18:47] [ERROR] [DB:31] La base de datos puede que ya esté siendo utilizada: "C:/Users/facu9/odontest.mv.db". Soluciones Posibles: cierre todas las otras conexiones; use el modo server
+Database may be already in use: "C:/Users/facu9/odontest.mv.db". Possible solutions: close all other connection(s); use the server mode [90020-224]
+[2023-10-27 02:18:58] [INFO ] [DB:14] Conexion establecida
+[2023-10-27 02:18:59] [INFO ] [DB:28] Tabla creada satisfactoriamente
+[2023-10-27 02:18:59] [INFO ] [DB:14] Conexion establecida
+[2023-10-27 02:18:59] [INFO ] [OdontologoIDaoH2:30] Odontologo insertado satisfactoriamente
+[2023-10-27 02:18:59] [INFO ] [DB:14] Conexion establecida
+[2023-10-27 02:18:59] [INFO ] [OdontologoIDaoH2:30] Odontologo insertado satisfactoriamente
+[2023-10-27 02:18:59] [INFO ] [DB:14] Conexion establecida
+[2023-10-27 02:19:18] [INFO ] [DB:14] Conexion establecida
+[2023-10-27 02:19:18] [INFO ] [DB:28] Tabla creada satisfactoriamente
+[2023-10-27 02:19:18] [INFO ] [DB:14] Conexion establecida
+[2023-10-27 02:19:18] [INFO ] [OdontologoIDaoH2:30] Odontologo insertado satisfactoriamente
+[2023-10-27 02:19:18] [INFO ] [DB:14] Conexion establecida
+[2023-10-27 02:19:18] [INFO ] [OdontologoIDaoH2:30] Odontologo insertado satisfactoriamente
+[2023-10-27 02:19:18] [INFO ] [DB:14] Conexion establecida
+[2023-10-27 02:19:31] [INFO ] [DB:14] Conexion establecida
+[2023-10-27 02:19:31] [INFO ] [DB:28] Tabla creada satisfactoriamente
+[2023-10-27 02:19:31] [INFO ] [DB:14] Conexion establecida
+[2023-10-27 02:19:31] [INFO ] [OdontologoIDaoH2:30] Odontologo insertado satisfactoriamente
+[2023-10-27 02:19:31] [INFO ] [DB:14] Conexion establecida
+[2023-10-27 02:19:31] [INFO ] [OdontologoIDaoH2:30] Odontologo insertado satisfactoriamente
+[2023-10-27 02:19:31] [INFO ] [DB:14] Conexion establecida
